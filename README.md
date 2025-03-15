@@ -1,4 +1,4 @@
-# PiRobot
+# PiRobot V.O (basic)
 
 ### How to Use
 
