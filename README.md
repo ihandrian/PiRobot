@@ -1,4 +1,4 @@
-# PiRobot V.O (basic)
+# PiRobot V.0 (basic)
 
 ![image](https://github.com/user-attachments/assets/e8536b8b-3085-4539-90a0-e954b36e6790)
 
